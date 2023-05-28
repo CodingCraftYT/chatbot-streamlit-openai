@@ -43,3 +43,28 @@ import openai
 
 st.title("Python Chatbot with Streamlit and OpenAI")
 # Insert chatbot implementation code here
+
+Contributing
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. Let's collaborate to make this Python chatbot project even better! 🙌🎉
+
+License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it as per the license terms.
+
+Contact
+If you have any questions or need further assistance, feel free to reach out:
+
+📧 Email: paliwalm4321@gmail.com
+🎥 Youtube: 
+
+Happy Chatbot Building! 🤖💬
+
+css
+Copy code
+
+Feel free to customize it further based on your specific project details and contact information.
+
+Watch the Tutorial: [Python Chatbot using Streamlit and OpenAI] 
+
+
+
+
