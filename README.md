@@ -54,7 +54,7 @@ Contact
 If you have any questions or need further assistance, feel free to reach out:
 
 📧 Email: paliwalm4321@gmail.com
-🎥 Youtube: 
+🎥 Youtube: https://youtu.be/Q10QlwN-LxE
 
 Happy Chatbot Building! 🤖💬
 
@@ -63,7 +63,7 @@ Copy code
 
 Feel free to customize it further based on your specific project details and contact information.
 
-Watch the Tutorial: [Python Chatbot using Streamlit and OpenAI] 
+Watch the Tutorial: [Python Chatbot using Streamlit and OpenAI] https://youtu.be/Q10QlwN-LxE
 
 
 
