@@ -1,7 +1,7 @@
 <h1 align="center">🔥 Python Chatbot with Streamlit and OpenAI 🔥</h1>
 
 <p align="center">
-  <img src="chatbot_image.png" alt="Chatbot Preview" width="500">
+  <img src="output.png" alt="Chatbot Preview" width="500">
 </p>
 
 <p align="center">
