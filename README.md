@@ -27,10 +27,10 @@ This repository provides a step-by-step guide to building an intelligent Python 
 
 To get started with the Python chatbot project, follow these simple steps:
 
-1. Clone the repository: `git clone [repository link]`
+1. Clone the repository: `git clone https://github.com/CodingCraftYT/chatbot-streamlit-openai`
 2. Install the required dependencies: `pip install -r requirements.txt`
-3. Obtain an OpenAI API key: [Insert OpenAI API key link here]
-4. Configure the API key: [Insert instructions to configure the API key here]
+3. Obtain an OpenAI API key: [https://platform.openai.com/account/api-keys]
+4. Configure the API key: [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]
 5. Launch the chatbot application: `streamlit run chatbot.py`
 
 ## Example Usage
