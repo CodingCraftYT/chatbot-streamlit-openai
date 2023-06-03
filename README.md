@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  🌟 GitHub Repository: [Insert your GitHub repository link here] 🌟<br>
-  🔐 OpenAI API Key: [Insert your OpenAI API key link here] 🔐
+  🌟 GitHub Repository: https://github.com/CodingCraftYT/chatbot-streamlit-openai 🌟<br>
+  🔐 OpenAI API Key: https://platform.openai.com/account/api-keys 🔐
 </p>
 
 ## Overview
